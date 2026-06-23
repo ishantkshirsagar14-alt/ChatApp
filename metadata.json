@@ -1,0 +1,6 @@
+{
+  "name": "IKChatMeet",
+  "description": "IKChatMeet is a polished real-time chat application featuring custom follow request approvals, real-time message stream notifications, and personalized edit profile settings - Created by Ishant Kshirsagar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
